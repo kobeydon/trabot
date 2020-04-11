@@ -1,6 +1,6 @@
 import slackapi
 
-data = {'channel':'C010QDX9L69', 'text':'こんにちは！私はボットだよ'}
+data = {'channel':'C010SBZGLCE', 'text':'こんにちは！私はボットだよ'}
 with open('./auth.txt') as f:
     key = f.read().strip()
 
